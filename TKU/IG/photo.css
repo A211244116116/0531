@@ -1,15 +1,10 @@
-#ig{
-    width: 80%;
-    margin: 0px auto;
-}
-
-#ig img{
+img{
     width: 30%;
     margin: 1.66%;
     float: left;
 }
 
-#ig p{
+p{
     font-family: Raleway;
     text-transform: uppercase;
     font-size: 20px;
